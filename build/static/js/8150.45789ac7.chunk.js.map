@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/8150.45789ac7.chunk.js","mappings":"gJAIA,UAFmB,kBAAM,SAAC,KAAD,CAAUA,GAAG,eAAeC,SAAS","sources":["Pages/Engage.tsx"],"sourcesContent":["import { Navigate } from \"react-router-dom\";\r\n\r\nconst EngagePage = () => <Navigate to=\"/engage/chat\" replace={true} />;\r\n\r\nexport default EngagePage;\r\n"],"names":["to","replace"],"sourceRoot":""}
