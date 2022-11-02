@@ -1,0 +1,1 @@
+import{j as r}from"./index.40731ccf.js";import{c as o}from"./SnackProvider.c23b45d0.js";const c=o(r("path",{d:"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"}),"MoreVert");export{c as M};

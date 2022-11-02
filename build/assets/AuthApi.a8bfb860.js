@@ -1,1 +1,0 @@
-var i=Object.defineProperty;var r=(a,t,n)=>t in a?i(a,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):a[t]=n;var s=(a,t,n)=>(r(a,typeof t!="symbol"?t+"":t,n),n);import{A as c}from"./Axios.d864dcf9.js";class e{}s(e,"getAuth",async()=>await c("/auth/check","GET")),s(e,"doSignIn",async t=>await c("/auth/sign-in","POST",{data:t}));export{e as A};
