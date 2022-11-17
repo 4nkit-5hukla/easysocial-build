@@ -1,0 +1,1 @@
+import{j as e,Y as i}from"./index.07b2cd1d.js";const t=({color:o="#FFFFFF"})=>e(i,{viewBox:"0 0 14 10",sx:{color:o,width:14,height:10},children:e("path",{fillRule:"evenodd",clipRule:"evenodd",d:"M11.3692 4.19223L8.28352 1.00205L9.25275 0L14 4.90798L9.43077 10L8.46154 8.99796L11.3692 5.62372H0V4.19223H11.3692Z"})});export{t as A};

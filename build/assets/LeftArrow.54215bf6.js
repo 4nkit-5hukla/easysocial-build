@@ -1,0 +1,1 @@
+import{j as r}from"./index.07b2cd1d.js";const o=()=>r("svg",{width:"9",height:"14",viewBox:"0 0 9 14",fill:"none",xmlns:"//www.w3.org/2000/svg",children:r("path",{d:"M8 1L2 7L8 13",stroke:"#24272C",strokeWidth:2})});export{o as L};
