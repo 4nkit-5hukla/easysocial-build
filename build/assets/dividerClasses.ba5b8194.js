@@ -1,1 +1,0 @@
-import{k as e,l as t}from"./index.be83498f.js";function s(i){return t("MuiDivider",i)}const l=e("MuiDivider",["root","absolute","fullWidth","inset","middle","flexItem","light","vertical","withChildren","withChildrenVertical","textAlignRight","textAlignLeft","wrapper","wrapperVertical"]),a=l;export{a as d,s as g};
