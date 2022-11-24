@@ -1,1 +1,0 @@
-import{C as l}from"./index.esm.01fad23a.js";import{j as o}from"./index.f4b1475f.js";import{T as i}from"./TextField.cefb14e5.js";const C=({control:t,rules:n,name:a,children:m,...s})=>o(l,{rules:n,control:t,name:a,render:({field:r})=>{var e;return o(i,{...s,value:(e=r.value)!=null?e:"",onChange:r.onChange,children:m})}});export{C as F};
