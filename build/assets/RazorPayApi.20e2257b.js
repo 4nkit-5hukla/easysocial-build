@@ -1,1 +1,0 @@
-var o=Object.defineProperty;var s=(r,a,t)=>a in r?o(r,a,{enumerable:!0,configurable:!0,writable:!0,value:t}):r[a]=t;var e=(r,a,t)=>(s(r,typeof a!="symbol"?a+"":a,t),t);import{ao as c}from"./index.df75c103.js";class i{}e(i,"createOrder",async a=>await c("/razorpay/order","POST",{data:a}));export{i as R};
