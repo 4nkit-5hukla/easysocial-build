@@ -1,0 +1,2 @@
+(this.webpackJsonpeasysocial=this.webpackJsonpeasysocial||[]).push([[129],{2489:function(s,e,a){"use strict";a.r(e);a(0);var c=a(2);e.default=function(s){var e=s.className;return Object(c.jsx)("section",{className:e,children:Object(c.jsxs)("h4",{children:["EasySocial chatbot talks to your customers, ",Object(c.jsx)("br",{}),"when you are busy working on orders."]})})}}}]);
+//# sourceMappingURL=129.df45a729.chunk.js.map

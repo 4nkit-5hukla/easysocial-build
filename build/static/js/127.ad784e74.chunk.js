@@ -1,0 +1,2 @@
+(this.webpackJsonpeasysocial=this.webpackJsonpeasysocial||[]).push([[127],{2478:function(e,o,t){"use strict";t.r(o);var c=t(0),n=t(2);o.default=function(){return Object(c.useEffect)((function(){localStorage.removeItem("token"),localStorage.removeItem("userId"),localStorage.removeItem("businessId")}),[]),window.location.href="/login",Object(n.jsx)(n.Fragment,{children:Object(n.jsx)("h1",{children:" Redirecting You to login Page!"})})}}}]);
+//# sourceMappingURL=127.ad784e74.chunk.js.map
